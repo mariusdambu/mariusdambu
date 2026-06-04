@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Marius 👋
 
-<!--
-**mariusdambu/mariusdambu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desktop Support Engineer based in Madrid, focused on Windows deployment, endpoint management and IT automation.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Windows Autopilot
+- Microsoft Intune
+- Entra ID
+- Active Directory
+- SCCM / MECM
+- PowerShell
+- ServiceNow
+  
+## Current Focus
+
+- Windows Autopilot migrations
+- Microsoft Intune administration
+- PowerShell automation
+- Endpoint lifecycle management
+- Homelab projects and documentation
+  
+## Personal Projects
+
+### UDMRS Dashboard
+A dashboard designed to simplify Microsoft deployment and management workflows.
+
+### Lab_Win11
+A Windows 11 deployment and customization toolkit built around DISM, WIM servicing and IT technician workflows.
+
+### MediaSyncBackup
+A practical solution for organizing, protecting and managing large personal media libraries.
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/mariusdambu
+- GitHub Pages: https://mariusdambu.github.io/
