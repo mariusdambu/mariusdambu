@@ -23,7 +23,7 @@ Desktop Support Engineer based in Madrid, focused on Windows deployment, endpoin
 ## Personal Projects
 
 ### UDMRS Dashboard
-A dashboard designed to simplify Microsoft deployment and management workflows.
+Photo library organizer with Google Photos import, EXIF repair, deduplication, migration tools and multi-user support.
 
 ### Lab_Win11
 A Windows 11 deployment and customization toolkit built around DISM, WIM servicing and IT technician workflows.
